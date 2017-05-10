@@ -10,6 +10,8 @@ namespace ImageCMPRS
     {
         static void Main(string[] args)
         {
+            /**
+             */
         }
     }
 }
