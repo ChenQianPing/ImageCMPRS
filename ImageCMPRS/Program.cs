@@ -13,8 +13,8 @@ namespace ImageCMPRS
         {
             Console.WriteLine("Start");
 
-            const string sFile = @"E:\10001003\1.jpg";
-            const string dFile = @"E:\10001003\1d.jpg";
+            const string sFile = @"E:\10001003\主界面.png";
+            const string dFile = @"E:\10001003\主界面d.png";
             var dHeight = 0;
             var dWidth = 0;
             const int flag = 10;
