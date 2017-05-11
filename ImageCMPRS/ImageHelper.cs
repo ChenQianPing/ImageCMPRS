@@ -92,3 +92,18 @@ namespace ImageCMPRS
         }
     }
 }
+
+
+/**
+ * 1.25M 压缩为 224KB；
+ * https://tinypng.com/
+ * 
+ * 使用TinyPNG提供的API，对图片进行压缩（C#）
+ * 注册获取key https://tinypng.com/developers
+ * 每个月有500张免费使用；
+ * 
+ * Your usage this month
+ * Compressed images: 0 / 500
+ * API key：E-xqtoRic_RpVEAe3y1G0lZua0XUkAJG
+ */
+
