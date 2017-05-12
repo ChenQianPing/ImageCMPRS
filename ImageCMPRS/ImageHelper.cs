@@ -67,8 +67,8 @@ namespace ImageCMPRS
             {
                 var arrayIci = ImageCodecInfo.GetImageEncoders();
 
-                // JPEG
-                var jpegIcIinfo = arrayIci.FirstOrDefault(t => t.FormatDescription.Equals("PNG"));
+                // JPEG、PNG
+                var jpegIcIinfo = arrayIci.FirstOrDefault(t => t.FormatDescription.Equals("png"));
 
                 if (jpegIcIinfo != null)
                 {
