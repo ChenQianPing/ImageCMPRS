@@ -11,6 +11,7 @@ namespace ImageCMPRS
 {
     public class ImageHelper
     {
+        #region 无损压缩图片
         /// <summary>
         /// 无损压缩图片
         /// </summary>
@@ -90,6 +91,7 @@ namespace ImageCMPRS
                 ob.Dispose();
             }
         }
+        #endregion
     }
 }
 
